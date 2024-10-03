@@ -1,6 +1,6 @@
 # 🗳️ Blockchain-based E-Voting System (Demonstration)
 
-![Voting System](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-voting-campaign-management-flaticons-flat-flat-icons.png)
+![evote](https://github.com/user-attachments/assets/21019fa8-8453-4234-a9a1-a8c36370a4a3)
 
 > **🏆 This project won 1st place in the National Level Hackathon Infothon 3.0 for the Social Innovation category.**
 
