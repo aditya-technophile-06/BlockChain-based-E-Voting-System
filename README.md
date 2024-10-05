@@ -40,7 +40,7 @@ Traditional voting systems are vulnerable to fraud, manipulation, and centraliza
 
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: PostgreSQL (for deployment), SQLite (for local testing)
+- **Database**: SQLite 
 - **Encryption**: SHA-256 for secure vote transmission
 - **Data Integrity**: Merkle Trees for tamper-proof and immutable vote storage
 - **Deployment**: Heroku for easy deployment
